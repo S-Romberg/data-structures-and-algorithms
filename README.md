@@ -3,7 +3,7 @@ A list of leetcodes to work through to upskill with DSA
 
 𝗚𝗿𝗮𝗽𝗵𝘀:  
   
-- [ ] [Clone Graph ](https://leetcode.com/problems/01-matrix/)
+- [ ] [Clone Graph ](https://leetcode.com/problems/clone-graph/)
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
 - [ ] [01 Matrix](https://leetcode.com/problems/01-matrix/description/)
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
